@@ -9,7 +9,7 @@
  * @version    1.1
  * @license    MIT Public License (http://opensource.org/licenses/MIT)
  *
- * @uses  DBException
+ * @see  DBException
  */
 class DBConnect {
     # databse connection info. Customize value as needed
